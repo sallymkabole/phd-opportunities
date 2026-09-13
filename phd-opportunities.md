@@ -1,1 +1,12 @@
+# PhD Opportunities
 
+Tracking fully funded PhD positions in knowledge graphs/knowledge representation, NLP for low-resource/African languages, multilingual AI, digital health & health informatics (NLP/KG applications), and computational approaches to intangible cultural heritage.
+
+## 2026-09-13
+
+| Institution | Supervisor | Project Description | Funding Confirmation | Application Deadline | Link |
+|---|---|---|---|---|---|
+| KTH Royal Institute of Technology (Dept. of Computing and Learning Systems) | — | Feminist AI addressing online gender-based violence: LLM/NLP/ML methods to surface explicit abuse and structural silences/omissions in digital narratives, with dataset and knowledge graph construction, in partnership with feminist organizations and civil society | Fully funded — salaried Swedish doctoral student position, no tuition fees | 2026-09-24 | https://www.kth.se/en/studies/phd/become-a-phd-student/vacant-doctoral-positions-1.1411624 |
+| University of Helsinki (Helsinki-NLP / Language Technology research unit) | Jörg Tiedemann; Timothee Mickus | Crosslingual fact transfer in large multilingual language models (FLaM project) — how pre-training data shapes factual accuracy of generated text across languages, and identifying cross-lingual data gaps | Fully funded — 3-year funded PhD position (extendable to 4 yrs), no tuition fees (Finnish public university doctoral study) | Rolling — full consideration by 2026-09-30 | https://researchersjob.com/phd-scholarship-in-crosslingual-fact-transfer/ |
+
+**Notes on this run:** Searched extensively across knowledge graph + cultural/linguistic diversity labs (Cultural AI Lab/VU & UvA Amsterdam, ILLC "Deep Culture" project, UCD AI & Heritage Futures, AI4DH Ljubljana, Aalborg AI:PAGE Lab, KU Leuven DTAI/EAVISE, Aalborg AI:HealthData Lab, Swansea paediatric-health NLP), African-NLP-adjacent institutions (Masakhane, UCT NLP group), and general KG/NLP/health job boards. Most otherwise-strong matches (e.g. AI4DH Ljubljana, UCD Heritage Futures, Aalborg AI:PAGE Lab/AI:HealthData Lab, Swansea NLP-healthcare, KU Leuven KG postings, MCML, several Aalborg/Edinburgh NLP-CDT calls) had application deadlines or cohort start dates already passed as of this run's date and were excluded. No qualifying, currently-open listing was found this run specifically for African/low-resource-language NLP, digital health + KG/NLP, or intangible cultural heritage — worth re-checking in future runs as new calls open.
